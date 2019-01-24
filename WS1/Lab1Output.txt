@@ -1,0 +1,2 @@
+Command Line : E:\SENECA\SEM3\OOP345\Lab\Workshop1\Workshop1\Debug\Workshop1.exe 
+Insufficient number of arguments
